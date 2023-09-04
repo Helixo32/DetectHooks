@@ -29,5 +29,7 @@ This tool enumerate functions exported from ntdll.dll, looking for modified inst
 
 
 # Demo
-https://github.com/Helixo32/DetectHooks/assets/73953510/603096bc-3113-4643-b741-b336698d0f89
+
+
+https://github.com/Helixo32/DetectHooks/assets/73953510/9009cc10-f9c1-4595-adb0-93269895b268
 
